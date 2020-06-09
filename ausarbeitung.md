@@ -62,3 +62,8 @@ enable firewall: `sudo ufw enable
 
 ## Clone virtual machine
 right-click virtual machine->clone
+
+on cloned virtual machine change port forwarding:
+ 
+     machine->settings->network->advanced->port forwarding
+     set host port to 6666
