@@ -58,7 +58,7 @@ deny all incoming connections: `sudo ufw default deny`
  
 allow ssh port: `sudo ufw allow 2222`
  
-enable firewall: `sudo ufw enable
+enable firewall: `sudo ufw enable`
 
 ## Clone virtual machine
 right-click virtual machine->clone
